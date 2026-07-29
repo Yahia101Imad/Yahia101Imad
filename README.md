@@ -27,6 +27,7 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=50" alt="javascript" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=50" alt="typescript" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="react" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nextjs&size=50&color=%23ffffff" alt="nextjs" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=50" alt="tailwindcss" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=50" alt="figma" />
 </div>
@@ -60,21 +61,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yahia101Imad&show_icons=true&theme=default&hide_border=true" alt="Imad's GitHub stats" />
-</p>
 
 ---
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="LINKEDIN_URL_HERE" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40" alt="linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=40" alt="email" />
-  </a>
-</p>
+yahia0imadeddine@gmail.com  -- **I read all my emails**
 
 *Open to freelance projects and collaborations — feel free to reach out.*
